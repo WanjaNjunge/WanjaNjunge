@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/14032494/pexels-photo-14032494.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 <h1 align="center">Hi 👋, I'm Wanja Njung'e</h1>
 <h3 align="center">A fullstack software developer passionate about quality software</h3>
 
