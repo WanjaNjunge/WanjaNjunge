@@ -1,74 +1,144 @@
-### <div align="center">👋 Hello, I'm Wanja Njung'e, a Software Developer</div>
-
-<!--## Github Stats 
-[![Wanja's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanjanjunge&show_icons=true&theme=radical)](https://github.com/WanjaNjunge)
--->
-
-
-<br/>  
-<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGwzeTVnMTgyZ3B3enIzOXZ3eWszdDE2bmVmeHlncTE4ejRyMG8ydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BACNp4PYgXACSPujxi/giphy.gif" alt="coding"/>
-
-
-<br/>  
-
-- 🌱 I’m currently learning at **ALX Software Engineer Programme**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://wanja-njunge.netlify.app/](https://wanja-njunge.netlify.app/)
-
-- 📝 I regularly write articles on [https://wanjanjunge.hashnode.dev/](https://wanjanjunge.hashnode.dev/)
-
-- 📫 How to reach me **wnjunge19@gmail.com**
-- Visit my profile: <a href="https://www.linkedin.com/in/stephanie-njung-e-41146a168/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-
-- ⚡ Fun fact **I can crochet a complete beanie in one sitting!**
-
-<br/>  
-
-## My Skill Set  
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-
-</div>
-
-
-</div>
-
-### Backend  
 <div align="center">
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>   
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+
+<h1>Wanja Njung'e</h1>
+<h3>Full Stack Systems Engineer</h3>
+<p>Enterprise Integrations &nbsp;·&nbsp; AI-Powered Applications &nbsp;·&nbsp; Quality Engineering</p>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-njung-e-41146a168/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://wanja-njunge.netlify.app/)&nbsp;
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://wanjanjunge.hashnode.dev/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wnjunge19@gmail.com)
 
 </div>
 
-### DevOps  
-<div align="center">  
-<!--   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   -->
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+---
+
+I engineer production-grade systems at the intersection of full-stack development, enterprise platform integration, and automated quality assurance. My work spans regulated industries — from CRM implementations and compliance platforms to AI-assisted applications built to enterprise reliability and security standards.
+
+Architectural thinking is central to how I operate: API design and CI/CD governance, Microsoft Power Platform solutions, end-to-end test automation frameworks, and digital transformation delivery. Currently focused on AI-enabled product engineering, scalable systems design, and solutions architecture.
+
+---
+
+## Currently Building
+
+| Project | Domain | Focus |
+|---------|--------|-------|
+| **Digital Qatalyst** | Enterprise Digital Transformation | Platform architecture, governance tooling, operational workflows |
+| **TrustCart** | Commerce & Compliance Systems | Secure transaction workflows, trust-first UX, CI/CD quality gates |
+| **AI Integration Systems** | AI-Assisted Engineering | Intelligent automation, LLM-powered workflows, AI-enabled product features |
+
+---
+
+## Engineering Focus
+
+| Systems & Architecture | Quality Engineering | AI & Automation |
+|------------------------|---------------------|-----------------|
+| API Design & Integration | End-to-End Test Automation | AI-Assisted Applications |
+| Enterprise Platform Architecture | CI/CD Quality Gates | Workflow & Process Automation |
+| CRM Implementation & Governance | Performance & Regression Testing | Power Platform AI Components |
+| Microservices & Service Design | QA Strategy & Standards | Intelligent Integration Patterns |
+| DevOps Pipeline Management | Security Testing Fundamentals | AI-Enabled UX Systems |
+
+---
+
+## Technical Stack
+
+**Application Layer**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Platform & Enterprise Integration**
+
+![Microsoft Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Power Pages](https://img.shields.io/badge/Power_Pages-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Quality Engineering**
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## Selected Work
+
+### Digital Qatalyst
+> Enterprise digital transformation platform designed for governance, operational efficiency, and scalable delivery.
+
+Built on React, TypeScript, Node.js, and Azure DevOps with CI/CD pipeline governance and role-based access controls. Designed around compliance-ready architecture, structured data flows, and enterprise UX standards. Demonstrates full-stack delivery with DevOps integration from day one.
+
+---
+
+### TrustCart
+> Trust-first commerce system integrating compliance verification, secure transaction workflows, and automated quality assurance.
+
+Combines full-stack engineering with security-conscious API design and end-to-end test coverage. Implements automated quality gates within the deployment pipeline, treating product reliability as a core engineering requirement rather than a post-deployment concern.
+
+---
+
+### Enterprise CRM & Regulatory Systems
+> CRM implementations and compliance applications for regulated industries, integrating Microsoft Power Platform with custom enterprise workflows.
+
+Power Pages and Power Platform solution delivery across multiple enterprise environments. Includes CRM configuration, workflow automation, regulatory data governance, and stakeholder-facing portal engineering. Demonstrates platform-depth beyond standard CRUD application work.
+
+---
+
+## Impact & Delivery
+
+- Build for production from the start — architecture decisions account for scale, maintainability, and security from the first commit
+- Treat automated testing as a first-class engineering discipline embedded in the delivery pipeline, not a separate phase
+- Design integrations with enterprise constraints in mind: authentication patterns, rate limits, data governance, and schema evolution
+- Apply cross-functional thinking across product, DevOps, QA, and architecture — reducing the handoff cost between disciplines
+- Leverage AI augmentation to accelerate quality, reduce cognitive overhead, and build more intelligent product surfaces
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=WanjaNjunge&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanjaNjunge&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
 </div>
 
-### Testing Technologies
-<div align="center"> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2045-rgul477b.png" alt="cypress" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=WanjaNjunge&theme=github-dark-blue&hide_border=true)
+
 </div>
 
+---
 
+## Connect
 
+Available for senior engineering roles, enterprise product opportunities, and technical partnerships in AI systems, digital transformation, or platform engineering.
 
+| | |
+|---|---|
+| **Email** | wnjunge19@gmail.com |
+| **LinkedIn** | [stephanie-njung-e](https://www.linkedin.com/in/stephanie-njung-e-41146a168/) |
+| **Portfolio** | [wanja-njunge.netlify.app](https://wanja-njunge.netlify.app/) |
+| **Blog** | [wanjanjunge.hashnode.dev](https://wanjanjunge.hashnode.dev/) |
 
+---
 
+<div align="center">
+<sub>Engineering systems that scale &nbsp;·&nbsp; Building products that matter</sub>
+</div>
