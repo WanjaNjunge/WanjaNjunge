@@ -1,10 +1,8 @@
 <div align="center">
+<img src="assets/banner.png" alt="Wanja Njung'e — Full Stack Systems Engineer" width="100%"/>
+</div>
 
-<h1>Wanja Njung'e</h1>
-<h3>Full Stack Systems Engineer</h3>
-<p>Enterprise Integrations &nbsp;·&nbsp; AI-Powered Applications &nbsp;·&nbsp; Quality Engineering</p>
-
-<br/>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-njung-e-41146a168/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://wanja-njunge.netlify.app/)&nbsp;
@@ -13,13 +11,13 @@
 
 </div>
 
----
+<img src="assets/divider-glow.svg" width="100%" alt=""/>
 
 I engineer production-grade systems at the intersection of full-stack development, enterprise platform integration, and automated quality assurance. My work spans regulated industries — from CRM implementations and compliance platforms to AI-assisted applications built to enterprise reliability and security standards.
 
 Architectural thinking is central to how I operate: API design and CI/CD governance, Microsoft Power Platform solutions, end-to-end test automation frameworks, and digital transformation delivery. Currently focused on AI-enabled product engineering, scalable systems design, and solutions architecture.
 
----
+<img src="assets/divider-glow.svg" width="100%" alt=""/>
 
 ## Currently Building
 
@@ -29,7 +27,7 @@ Architectural thinking is central to how I operate: API design and CI/CD governa
 | **TrustCart** | Commerce & Compliance Systems | Secure transaction workflows, trust-first UX, CI/CD quality gates |
 | **AI Integration Systems** | AI-Assisted Engineering | Intelligent automation, LLM-powered workflows, AI-enabled product features |
 
----
+<img src="assets/divider-glow.svg" width="100%" alt=""/>
 
 ## Engineering Focus
 
@@ -41,7 +39,7 @@ Architectural thinking is central to how I operate: API design and CI/CD governa
 | Microservices & Service Design | QA Strategy & Standards | Intelligent Integration Patterns |
 | DevOps Pipeline Management | Security Testing Fundamentals | AI-Enabled UX Systems |
 
----
+<img src="assets/divider-glow.svg" width="100%" alt=""/>
 
 ## Technical Stack
 
@@ -74,7 +72,7 @@ Architectural thinking is central to how I operate: API design and CI/CD governa
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
----
+<img src="assets/divider-glow.svg" width="100%" alt=""/>
 
 ## Selected Work
 
@@ -83,21 +81,17 @@ Architectural thinking is central to how I operate: API design and CI/CD governa
 
 Built on React, TypeScript, Node.js, and Azure DevOps with CI/CD pipeline governance and role-based access controls. Designed around compliance-ready architecture, structured data flows, and enterprise UX standards. Demonstrates full-stack delivery with DevOps integration from day one.
 
----
-
 ### TrustCart
 > Trust-first commerce system integrating compliance verification, secure transaction workflows, and automated quality assurance.
 
 Combines full-stack engineering with security-conscious API design and end-to-end test coverage. Implements automated quality gates within the deployment pipeline, treating product reliability as a core engineering requirement rather than a post-deployment concern.
-
----
 
 ### Enterprise CRM & Regulatory Systems
 > CRM implementations and compliance applications for regulated industries, integrating Microsoft Power Platform with custom enterprise workflows.
 
 Power Pages and Power Platform solution delivery across multiple enterprise environments. Includes CRM configuration, workflow automation, regulatory data governance, and stakeholder-facing portal engineering. Demonstrates platform-depth beyond standard CRUD application work.
 
----
+<img src="assets/divider-glow.svg" width="100%" alt=""/>
 
 ## Impact & Delivery
 
@@ -107,7 +101,7 @@ Power Pages and Power Platform solution delivery across multiple enterprise envi
 - Apply cross-functional thinking across product, DevOps, QA, and architecture — reducing the handoff cost between disciplines
 - Leverage AI augmentation to accelerate quality, reduce cognitive overhead, and build more intelligent product surfaces
 
----
+<img src="assets/divider-glow.svg" width="100%" alt=""/>
 
 ## GitHub Activity
 
@@ -124,7 +118,7 @@ Power Pages and Power Platform solution delivery across multiple enterprise envi
 
 </div>
 
----
+<img src="assets/divider-glow.svg" width="100%" alt=""/>
 
 ## Connect
 
@@ -137,8 +131,9 @@ Available for senior engineering roles, enterprise product opportunities, and te
 | **Portfolio** | [wanja-njunge.netlify.app](https://wanja-njunge.netlify.app/) |
 | **Blog** | [wanjanjunge.hashnode.dev](https://wanjanjunge.hashnode.dev/) |
 
----
-
 <div align="center">
+<br/>
+<img src="assets/divider-rule.svg" width="60%" alt=""/>
+<br/><br/>
 <sub>Engineering systems that scale &nbsp;·&nbsp; Building products that matter</sub>
 </div>

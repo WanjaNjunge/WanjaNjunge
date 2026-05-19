@@ -1,0 +1,155 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161b22" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="divGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#21262d" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#21262d" stop-opacity="1"/>
+      <stop offset="75%"  stop-color="#21262d" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#21262d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="751" y1="0" x2="1500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#0d1117" stop-opacity="0.9"/>
+      <stop offset="40%"  stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1500" height="500" fill="#0d1117"/>
+
+  <!-- ═══════════════ LEFT PANEL ═══════════════ -->
+
+  <!-- Eyebrow: status dot + label -->
+  <circle cx="80" cy="122" r="4" fill="#3fb950"/>
+  <text x="97" y="128"
+    font-family="'Courier New', Courier, monospace"
+    font-size="12" fill="#8b949e" letter-spacing="3.5">GITHUB.COM / WANJANJUNGE</text>
+
+  <!-- H1 Name -->
+  <text x="80" y="207"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="76" font-weight="800" fill="#e6edf3"
+    letter-spacing="-2">Wanja</text>
+  <text x="80" y="287"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="76" font-weight="800" fill="#e6edf3"
+    letter-spacing="-2">Njung'e</text>
+
+  <!-- H2 Title -->
+  <text x="80" y="335"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="26" font-weight="500" fill="#e6edf3">Full Stack Systems Engineer</text>
+
+  <!-- Meta specialisations -->
+  <text font-family="'Courier New', Courier, monospace" font-size="13" y="374" letter-spacing="0.4">
+    <tspan x="80" fill="#58a6ff">Enterprise Integrations</tspan>
+    <tspan fill="#30363d" dx="10"> / </tspan>
+    <tspan fill="#58a6ff" dx="6">AI-Powered Applications</tspan>
+    <tspan fill="#30363d" dx="10"> / </tspan>
+    <tspan fill="#58a6ff" dx="6">Quality Engineering</tspan>
+  </text>
+
+  <!-- ═══════════════ CENTRE DIVIDER ═══════════════ -->
+  <rect x="749" y="0" width="2" height="500" fill="url(#divGrad)"/>
+
+  <!-- ═══════════════ RIGHT PANEL ═══════════════ -->
+
+  <!-- Grid background -->
+  <rect x="751" y="0" width="749" height="500" fill="url(#grid)"/>
+
+  <!-- Concentric architecture rings (cx offset = 751 + 460 = 1211) -->
+  <g stroke="#21262d" fill="none">
+    <circle cx="1211" cy="240" r="220"/>
+    <circle cx="1211" cy="240" r="160"/>
+    <circle cx="1211" cy="240" r="100"/>
+  </g>
+  <circle cx="1211" cy="240" r="220"
+    stroke="#58a6ff" fill="none" opacity="0.35"
+    stroke-dasharray="2 8"/>
+
+  <!-- Axis tick lines (x offset = 751) -->
+  <g stroke="#30363d" stroke-width="1">
+    <line x1="751"  y1="60"  x2="1500" y2="60"/>
+    <line x1="751"  y1="440" x2="1500" y2="440"/>
+    <line x1="811"  y1="0"   x2="811"  y2="500"/>
+    <line x1="1441" y1="0"   x2="1441" y2="500"/>
+  </g>
+
+  <!-- Edges (node x + 751) -->
+  <g stroke="#58a6ff" stroke-width="1" opacity="0.55">
+    <line x1="871"  y1="140" x2="991"  y2="80"/>
+    <line x1="991"  y1="80"  x2="1111" y2="200"/>
+    <line x1="1111" y1="200" x2="951"  y2="280"/>
+    <line x1="1111" y1="200" x2="1211" y2="120"/>
+    <line x1="1211" y1="120" x2="1291" y2="260"/>
+    <line x1="951"  y1="280" x2="1291" y2="260"/>
+    <line x1="1211" y1="120" x2="1371" y2="60"/>
+    <line x1="1291" y1="260" x2="1431" y2="200"/>
+    <line x1="1431" y1="200" x2="1351" y2="400"/>
+    <line x1="1291" y1="260" x2="1191" y2="340"/>
+    <line x1="951"  y1="280" x2="851"  y2="360"/>
+    <line x1="1071" y1="380" x2="1191" y2="340"/>
+    <line x1="1071" y1="380" x2="951"  y2="280"/>
+    <line x1="1371" y1="60"  x2="1431" y2="200"/>
+    <line x1="1111" y1="200" x2="1191" y2="340"/>
+    <line x1="991"  y1="80"  x2="1211" y2="120"/>
+  </g>
+
+  <!-- Stacked layer plates (architecture metaphor, x offset = 751+380 = 1131) -->
+  <rect x="1131" y="180" width="160" height="22" fill="none" stroke="#30363d"/>
+  <rect x="1131" y="210" width="160" height="22" fill="none" stroke="#30363d"/>
+  <rect x="1131" y="240" width="160" height="22" fill="none" stroke="#58a6ff" stroke-opacity="0.7"/>
+  <rect x="1131" y="270" width="160" height="22" fill="none" stroke="#30363d"/>
+  <rect x="1131" y="300" width="160" height="22" fill="none" stroke="#30363d"/>
+
+  <!-- Nodes (x offset = 751) -->
+  <g fill="#0d1117" stroke-width="1.5">
+    <!-- node 0: 871,140 r=4 blue -->
+    <circle cx="871"  cy="140" r="8"  fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="871"  cy="140" r="4"  stroke="#58a6ff"/>
+    <!-- node 1: 991,80 r=3 blue -->
+    <circle cx="991"  cy="80"  r="7"  fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="991"  cy="80"  r="3"  stroke="#58a6ff"/>
+    <!-- node 2: 1111,200 r=6 blue -->
+    <circle cx="1111" cy="200" r="10" fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="1111" cy="200" r="6"  stroke="#58a6ff"/>
+    <!-- node 3: 951,280 r=3 green -->
+    <circle cx="951"  cy="280" r="7"  fill="#3fb950" opacity="0.12" stroke="none"/>
+    <circle cx="951"  cy="280" r="3"  stroke="#3fb950"/>
+    <!-- node 4: 1211,120 r=4 blue -->
+    <circle cx="1211" cy="120" r="8"  fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="1211" cy="120" r="4"  stroke="#58a6ff"/>
+    <!-- node 5: 1291,260 r=5 blue -->
+    <circle cx="1291" cy="260" r="9"  fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="1291" cy="260" r="5"  stroke="#58a6ff"/>
+    <!-- node 6: 1071,380 r=4 blue -->
+    <circle cx="1071" cy="380" r="8"  fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="1071" cy="380" r="4"  stroke="#58a6ff"/>
+    <!-- node 7: 1371,60 r=3 blue -->
+    <circle cx="1371" cy="60"  r="7"  fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="1371" cy="60"  r="3"  stroke="#58a6ff"/>
+    <!-- node 8: 1431,200 r=6 green -->
+    <circle cx="1431" cy="200" r="10" fill="#3fb950" opacity="0.12" stroke="none"/>
+    <circle cx="1431" cy="200" r="6"  stroke="#3fb950"/>
+    <!-- node 9: 1351,400 r=3 blue -->
+    <circle cx="1351" cy="400" r="7"  fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="1351" cy="400" r="3"  stroke="#58a6ff"/>
+    <!-- node 10: 851,360 r=3 blue -->
+    <circle cx="851"  cy="360" r="7"  fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="851"  cy="360" r="3"  stroke="#58a6ff"/>
+    <!-- node 11: 1191,340 r=4 blue -->
+    <circle cx="1191" cy="340" r="8"  fill="#58a6ff" opacity="0.12" stroke="none"/>
+    <circle cx="1191" cy="340" r="4"  stroke="#58a6ff"/>
+  </g>
+
+  <!-- Crosshair at ring centre -->
+  <g stroke="#58a6ff" stroke-width="1">
+    <line x1="1201" y1="240" x2="1221" y2="240"/>
+    <line x1="1211" y1="230" x2="1211" y2="250"/>
+  </g>
+
+  <!-- Right-edge fade overlay -->
+  <rect x="751" y="0" width="749" height="500" fill="url(#fadeR)"/>
+</svg>
