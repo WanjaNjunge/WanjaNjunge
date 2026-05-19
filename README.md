@@ -101,25 +101,6 @@ Power Pages and Power Platform solution delivery across multiple enterprise envi
 - Apply cross-functional thinking across product, DevOps, QA, and architecture — reducing the handoff cost between disciplines
 - Leverage AI augmentation to accelerate quality, reduce cognitive overhead, and build more intelligent product surfaces
 
-<img src="assets/divider-glow.svg" width="100%" alt=""/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=WanjaNjunge&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanjaNjunge&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=WanjaNjunge&theme=github-dark-blue&hide_border=true)
-
-</div>
-
-<img src="assets/divider-glow.svg" width="100%" alt=""/>
-
 ## Connect
 
 Available for senior engineering roles, enterprise product opportunities, and technical partnerships in AI systems, digital transformation, or platform engineering.
